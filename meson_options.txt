@@ -1,0 +1,1 @@
+option('libinput', type: 'feature', value: 'auto', description: 'Enable libinput support for libinput related features')

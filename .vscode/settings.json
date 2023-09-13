@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"wlr_output.h": "c",
+		"time.h": "c"
+	},
+	"mesonbuild.configureOnOpen": false,
+	"C_Cpp.default.compileCommands": "build/compile_commands.json"
+}
